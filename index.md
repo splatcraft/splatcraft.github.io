@@ -4,8 +4,8 @@ title: splatcraft
 ---
 
 [![badge:downloads_cf](https://cf.way2muchnoise.eu/full_367816_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/splatcraft)
-[![badge:discord](https://img.shields.io/discord/671749458840518656?label=discord&style=flat-square&color=5865F2)](https://discord.splatcraft.net)
-[![badge:github_build](https://img.shields.io/github/workflow/status/splatcraft/splatcraft-fabric/build?style=flat-square)](https://github.com/splatcraft/splatcraft-fabric)
+[![badge:discord](https://img.shields.io/discord/671749458840518656?labelColor=2d2d2d&label=discord&style=flat-square&color=5865F2)](https://discord.splatcraft.net)
+[![badge:github_build](https://img.shields.io/github/workflow/status/splatcraft/splatcraft-fabric/build?labelColor=2d2d2d&style=flat-square)](https://github.com/splatcraft/splatcraft-fabric)
 
 **Splatcraft** is a Minecraft mod based on Nintendo's popular game [*Splatoon*](https://wikipedia.org/wiki/Splatoon). This mod aims to add items and mechanics based on the game in a cohesive way, such as weapons, squid transformation, Turf War and other features.
 
