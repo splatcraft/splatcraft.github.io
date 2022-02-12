@@ -1,4 +1,7 @@
-# splatcraft
+---
+layout: home
+title: splatcraft
+---
 
 [![badge:downloads_cf](https://cf.way2muchnoise.eu/full_367816_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/splatcraft)
 [![badge:discord](https://img.shields.io/discord/671749458840518656?label=discord&style=flat-square&color=5865F2)](https://discord.splatcraft.net)

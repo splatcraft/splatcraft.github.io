@@ -1,0 +1,8 @@
+title: splatcraft
+description: >-
+  The Minecraft Splatoon mod
+url: https://splatcraft.net
+
+theme: minima
+plugins:
+  - jekyll-feed
