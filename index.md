@@ -12,7 +12,7 @@ title: splatcraft
 ## faq
 ### How do I download development builds?
 #### prerequisites
-- [*GitHub account*](https://github.com)
+- [*GitHub account*](https://github.com/signup)
 - [*Fabric launcher*](https://fabricmc.net/use)
 - [*Fabric API*](https://curseforge.com/minecraft/mc-mods/fabric-api)
 
