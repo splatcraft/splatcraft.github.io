@@ -11,6 +11,16 @@ body {
   margin-left: auto;
 }
 
+.anchorjs-link, :hover > .anchorjs-link {
+  text-decoration: none;
+  color: black;
+}
+
+.wrapper {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 article,
 aside,
 details,
