@@ -14,7 +14,8 @@ title: splatcraft
 #### prerequisites
 - [*GitHub account*](https://github.com/signup)
 - [*Fabric launcher*](https://fabricmc.net/use)
-- [*Fabric API*](https://curseforge.com/minecraft/mc-mods/fabric-api)
+- [*Fabric API*](https://modrinth.com/mod/fabric-api)
+- [*Frame API*](https://modrinth.com/mod/frame-api)
 
 #### installation
 1. Head over to the [*GitHub actions page*](https://github.com/splatcraft/splatcraft-fabric/actions?query=event:push+branch:1.18)
