@@ -13,9 +13,10 @@ title: splatcraft
 ### How do I download development builds?
 #### prerequisites
 - [*GitHub account*](https://github.com/signup)
-- [*Fabric launcher*](https://fabricmc.net/use)
+- [*Fabric Launcher*](https://fabricmc.net/use)
 - [*Fabric API*](https://modrinth.com/mod/fabric-api)
 - [*Frame API*](https://modrinth.com/mod/frame-api)
+- [*Cardinal Components API*](https://modrinth.com/mod/cardinal-components-api)
 
 #### installation
 1. Head over to the [*GitHub actions page*](https://github.com/splatcraft/splatcraft-fabric/actions?query=event:push+branch:1.18)
