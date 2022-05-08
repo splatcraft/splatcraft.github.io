@@ -33,6 +33,7 @@ Make a bug report on our [*bug tracker*](https://github.com/splatcraft/splatcraf
 
 ### Will you make a Forge version?
 The [*Forge version of Splatcraft*](https://github.com/splatcraft/splatcraft-forge) is discontinued: one will only exist in the future if someone is kind enough to make a port.
+- **Update:** *L1ttle* has started [*a fork*](https://github.com/l1ttleO/splatcraft-forge/tree/forge/major-updates) to maintain the Forge version!
 
 ### Will you backport to X version?
 No.
