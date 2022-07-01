@@ -19,7 +19,7 @@ title: splatcraft
 - [*Cardinal Components API*](https://modrinth.com/mod/cardinal-components-api)
 
 #### installation
-1. Head over to the [*GitHub actions page*](https://github.com/splatcraft/splatcraft-fabric/actions?query=event:push+branch:1.18.2)
+1. Head over to the [*GitHub actions page*](https://github.com/splatcraft/splatcraft-fabric/actions?query=event:push+branch:1.19)
 2. Click on the latest available build
 3. Locate `Artifacts`, at the bottom of the page
 4. Click the `libs` artifact to download\*
