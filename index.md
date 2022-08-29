@@ -12,21 +12,15 @@ title: splatcraft
 ## faq
 ### How do I download development builds?
 #### prerequisites
-- [*GitHub account*](https://github.com/signup)
 - [*Fabric Launcher*](https://fabricmc.net/use)
 - [*Fabric API*](https://modrinth.com/mod/fabric-api)
 - [*Frame API*](https://modrinth.com/mod/frame-api)
 - [*Cardinal Components API*](https://modrinth.com/mod/cardinal-components-api)
 
 #### installation
-1. Head over to the [*GitHub actions page*](https://github.com/splatcraft/splatcraft-fabric/actions?query=event:push+branch:1.19)
-2. Click on the latest available build
-3. Locate `Artifacts`, at the bottom of the page
-4. Click the `libs` artifact to download\*
-5. Unzip the download, and install the mod\*\*
-
-> \* A GitHub account is required for this to be clickable  
-> \*\* Make sure to use the file **without** `-dev`/`-sources` attached! These simply won't work or will crash the game.
+1. [Download the latest build](vhttps://nightly.link/splatcraft/splatcraft-fabric/workflows/build/1.19/libs.zip)
+2. Unzip the download, and install the mod\*
+    - Make sure to use the file **without** `-dev`/`-sources` attached! These simply won't work or will crash the game.
 
 ### Where can I report bugs?
 Make a bug report on our [*bug tracker*](https://github.com/splatcraft/splatcraft-fabric/issues), or for a minor issue join our [*Discord*](https://discord.splatcraft.net).
