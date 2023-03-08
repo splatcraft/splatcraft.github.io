@@ -4,9 +4,10 @@ title: splatcraft
 ---
 
 [![badge:downloads_cf](https://cf.way2muchnoise.eu/full_367816_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/splatcraft)
+[![badge:downloads_mr](https://img.shields.io/modrinth/dt/vkZX5K0d?logo=modrinth&labelColor=2d2d2d&style=flat-square)](https://modrinth.com/mod/splatcraft-forge)
 [![badge:discord](https://img.shields.io/discord/671749458840518656?labelColor=2d2d2d&label=discord&style=flat-square&color=5865F2)](https://discord.splatcraft.net)
-[![badge:github_build (fabric)](https://img.shields.io/github/actions/workflow/status/splatcraft/splatcraft-fabric/build.yml?label=build%20%28fabric%29)](https://github.com/splatcraft/splatcraft-fabric)
-[![badge:github_build (forge)](https://img.shields.io/github/actions/workflow/status/splatcraft/splatcraft-forge/build.yml?label=build%20%28forge%29)](https://github.com/splatcraft/splatcraft-forge)
+[![badge:github_build (fabric)](https://img.shields.io/github/actions/workflow/status/splatcraft/splatcraft-fabric/build.yml?label=build%20%28fabric%29&labelColor=2d2d2d&style=flat-square)](https://github.com/splatcraft/splatcraft-fabric)
+[![badge:github_build (forge)](https://img.shields.io/github/actions/workflow/status/splatcraft/splatcraft-forge/build.yml?label=build%20%28forge%29&labelColor=2d2d2d&style=flat-square)](https://github.com/splatcraft/splatcraft-forge)
 
 **Splatcraft** is a Minecraft mod based on Nintendo's popular game [*Splatoon*](https://wikipedia.org/wiki/Splatoon). This mod aims to add items and mechanics based on the game in a cohesive way, such as weapons, squid transformation, Turf War and other features.
 
@@ -14,6 +15,7 @@ title: splatcraft
 ### How do I download development builds?
 #### prerequisites
 - [*Fabric Launcher*](https://fabricmc.net/use) or [*Forge Mod Loader*](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)
+- [*Obfuscate*](https://mrcrayfish.com/download?id=04127bff66e00a95d773fb91bb128298f73672a0) (only for Forge)
 - [*Fabric API*](https://modrinth.com/mod/fabric-api) (only for Fabric)
 - [*Frame API*](https://modrinth.com/mod/frame-api) (only for Fabric)
 - [*Cardinal Components API*](https://modrinth.com/mod/cardinal-components-api) (only for Fabric)
