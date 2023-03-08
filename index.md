@@ -21,7 +21,7 @@ title: splatcraft
 - [*Cardinal Components API*](https://modrinth.com/mod/cardinal-components-api) (only for Fabric)
 
 #### installation
-1. Download the latest build: [Fabric](https://nightly.link/splatcraft/splatcraft-fabric/workflows/build/1.19/libs.zip) or [Forge](https://nightly.link/splatcraft/splatcraft-forge/workflows/build/forge%2Fmajor-updates/libs.zip)
+1. Download the latest build: [Fabric](https://nightly.link/splatcraft/splatcraft-fabric/workflows/build/1.19/libs.zip) or [Forge](https://nightly.link/splatcraft/splatcraft-forge/workflows/build/1.16.5%2Fdev/libs.zip)
 2. Unzip the download, and install the mod
     - Make sure to use the file **without** `-dev`/`-sources` attached! These simply won't work or will crash the game.
 
