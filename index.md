@@ -4,7 +4,7 @@ title: splatcraft
 ---
 
 [![badge:downloads_cf](https://cf.way2muchnoise.eu/full_367816_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/splatcraft)
-[![badge:downloads_mr](https://img.shields.io/modrinth/dt/vkZX5K0d?logo=modrinth&labelColor=2d2d2d&color=009e41&style=flat-square)](https://modrinth.com/mod/splatcraft-forge)
+[![badge:downloads_mr](https://img.shields.io/modrinth/dt/vkZX5K0d?logo=modrinth&labelColor=2d2d2d&color=009e41&style=flat-square)](https://modrinth.com/mod/splatcraft)
 [![badge:discord](https://img.shields.io/discord/671749458840518656?labelColor=2d2d2d&label=discord&style=flat-square&color=5865F2)](https://discord.splatcraft.net)
 [![badge:github_build (forge)](https://img.shields.io/github/actions/workflow/status/splatcraft/splatcraft-forge/build.yml?label=build%20%28forge%29&labelColor=2d2d2d&style=flat-square)](https://github.com/splatcraft/splatcraft-forge)
 [![badge:github_build (fabric)](https://img.shields.io/github/actions/workflow/status/splatcraft/splatcraft-fabric/build.yml?label=build%20%28fabric%29&labelColor=2d2d2d&style=flat-square)](https://github.com/splatcraft/splatcraft-fabric)
